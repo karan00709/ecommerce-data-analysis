@@ -369,13 +369,9 @@ Users can select a category and investigate its performance without leaving the 
 
 # Dashboard Preview
 
-## Sales Overview
+![Sales Overview](./powerbi/screenshots/sales_overview.png)
 
-![Sales Overview](powerbi/screenshots/sales_overview.png)
-
-## Category & Customer Analysis
-
-![Category & Customer Analysis](powerbi/screenshots/category_customer_analysis.png)
+![Category & Customer Analysis](./powerbi/screenshots/category_customer_analysis.png)
 
 ---
 
